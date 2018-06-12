@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScreenshotVuforia.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Models\User.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UserRestClient.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Models\UserDocument.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Screenshot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScreenshotVuforia.cs" Line="27" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
